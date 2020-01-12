@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kristi M. Poulsen</title>
+
+<meta name="description' content=\"Assignment portal for Kristi Poulsen in CIT 230: Web Frontend Development at Brigham Young University - Idaho">
+
+<div class="margin">
+<img src="http://www.simpleimageresizer.com/_uploads/photos/564f21a8/September_2018_010_1_20_2_70.jpg" alt="Me and My Brothers" style="float:right;" margin=right: 25px>
+</div>
+
+
+
+
+<style>
+* {  box-sizing: border-box;
+  border-radius: 15px}
+
+.header {background-color: pink;
+  color: grey;
+  padding: 10px;}
+  
+  .footer {background-color: pink;
+  color: grey;
+  padding: .5px;}
+
+
+  float: left;
+  padding: 15px;
+  
+.menu {
+  width: 25%;}
+
+.content {
+  width: 75%;
+}
+
+h2 {
+  border: 0 none #ccc;
+  border-bottom: 1px solid #ccc;
+  border-radius: 0;
+}
+</style>
+
+
+
+</head>
+<body>
+
+<div class="header">
+  <h1 style="text-align:center;">Kristi M. Poulsen</h1>
+</div>
+
+<div class="column content">
+    <h2>CIT 230: Assignment Portal</h1>
+  </div>
+
+
+<div class="clearfix">
+  <div class="column menu">
+    <ul>
+      <li>Lesson 02 <a href="">Assignment Link</a></li>
+      <li>Lesson 03: <a href="">Assignment Link</a></li>
+      <li>Lesson 04: <a href="">Link</a> | <a href="">Link</a></li>
+    </ul>
+  </div>
+
+</div>
+
+<div class="footer">
+  <p style="text-align:center;">©2020 | Kristi M. Poulsen | Utah | <a href="https://www.byui.edu/online">BYU Online Learning</a> </p>
+  <p style="text-align:center;">Last Updated: 1/11/2020 10:42:32</p>
+</div>
+
+</body>
+</html>
